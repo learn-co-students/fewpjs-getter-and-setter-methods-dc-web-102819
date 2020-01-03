@@ -1,4 +1,4 @@
-const pi = Math.pi
+const pi = Math.PI
 
 class Circle {
 	constructor(radius){
